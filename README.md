@@ -25,8 +25,6 @@ This repository contains organized academic materials for the Data Science cours
 ## 🚀 🎯 Purpose
 
 - Centralize Data Science materials  
-- Practice real-world datasets  
-- Build project portfolio  
 
 ---
 
